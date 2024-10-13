@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab34</string>
+    <string name="name">Ярослав Климік</string>
+    <string name="group">ФІТ 4–8</string>
+    <string name="show">Показати</string>
+    <string name="hide">Сховати</string>
+    <string name="city">Миколаїв</string>
+</resources>
